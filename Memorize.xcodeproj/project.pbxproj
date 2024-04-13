@@ -11,6 +11,8 @@
 		DCCBD69E2BCAAB50001437CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCBD69D2BCAAB50001437CE /* ContentView.swift */; };
 		DCCBD6A02BCAAB51001437CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCCBD69F2BCAAB51001437CE /* Assets.xcassets */; };
 		DCCBD6A32BCAAB51001437CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCCBD6A22BCAAB51001437CE /* Preview Assets.xcassets */; };
+		DCCBD6AA2BCAC85F001437CE /* AnimatedButtonIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCBD6A92BCAC85F001437CE /* AnimatedButtonIView.swift */; };
+		DCCBD6AC2BCAC94E001437CE /* AppleMusicVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCBD6AB2BCAC94E001437CE /* AppleMusicVIew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DCCBD69D2BCAAB50001437CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DCCBD69F2BCAAB51001437CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCCBD6A22BCAAB51001437CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DCCBD6A92BCAC85F001437CE /* AnimatedButtonIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedButtonIView.swift; sourceTree = "<group>"; };
+		DCCBD6AB2BCAC94E001437CE /* AppleMusicVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleMusicVIew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				DCCBD69B2BCAAB50001437CE /* MemorizeApp.swift */,
 				DCCBD69D2BCAAB50001437CE /* ContentView.swift */,
+				DCCBD6A92BCAC85F001437CE /* AnimatedButtonIView.swift */,
+				DCCBD6AB2BCAC94E001437CE /* AppleMusicVIew.swift */,
 				DCCBD69F2BCAAB51001437CE /* Assets.xcassets */,
 				DCCBD6A12BCAAB51001437CE /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCCBD69E2BCAAB50001437CE /* ContentView.swift in Sources */,
+				DCCBD6AC2BCAC94E001437CE /* AppleMusicVIew.swift in Sources */,
+				DCCBD6AA2BCAC85F001437CE /* AnimatedButtonIView.swift in Sources */,
 				DCCBD69C2BCAAB50001437CE /* MemorizeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
